@@ -1,0 +1,17 @@
+.DS_Store
+Manifest.toml
+LocalPreferences.toml
+JuliaLocalPreferences.toml
+outputs/
+*.jls
+*.h5
+*.hdf5
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/
+.vscode/
+.idea/
+.env
+.env.*
+__pycache__/
